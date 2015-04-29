@@ -1,0 +1,54 @@
+@CHARSET "ISO-8859-1";
+
+.loginBody {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	border: 1px solid #C3D9FF;
+}
+
+.loginDiv{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #C3D9FF;
+}
+
+.mainContent{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	color: blue;
+	text-align: center;
+}
+
+h2.noResults{
+	color: red;
+	text-align: center;
+}
+
+table.center {margin-left:auto; margin-right:auto;}
+
+td.center {text-align: center;}
+
+.error {
+	color: red;
+}
+
+.loggedInUser{
+	font-weight:bold;
+}
+
+.header{
+	height: 20px;
+}
+
+.bodyTable {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
